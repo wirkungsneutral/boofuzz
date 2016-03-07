@@ -3,6 +3,8 @@ include *.rst
 include *.txt
 recursive-include boofuzz *.md
 recursive-include boofuzz *.py
+recursive-include boofuzz/blocks *.md
+recursive-include boofuzz/blocks *.py
 recursive-include examples *.py
 recursive-include new_examples *.py
 recursive-include requests *.html
